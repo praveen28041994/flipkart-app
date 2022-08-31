@@ -12,7 +12,7 @@ class Addition
 		System.out.println("Enter num2 value");
                 num2=s.nextInt();
 		res=num1/num2;
-		n2=n1+154;
+		n2=n1++;
 		System.out.println("The sum of given numbers is "+res);
 		System.out.println("Thank you for joining GCP Devops COurse");
 		System.out.println("n2 value is :"+n2);
