@@ -4,7 +4,9 @@ class Addition
 	{
 		int num1,num2,n1,n2,res;
 		n1=25;
+		//Tis is first comment
 		Scanner s =new Scanner(System.in);
+		//Scanner class contains nextInt() which reads the integer value
 		System.out.println("Enter num1 value");
                 num1=s.nextInt();
 		System.out.println("Enter num2 value");
